@@ -7,7 +7,9 @@ PorterDoll Asset wtih "THE GIFT"
 This short film was created using “MARZA Movie Pipeline for Unity” co-developed with Unity Technologies. 
 
 
-MARZA ANIMATION PLANET INC http://www.marza.com/
+MARZA ANIMATION PLANET Home : 
+
+http://www.marza.com/
 
 http://marza-realtime.com/
 
@@ -24,18 +26,29 @@ https://www.youtube.com/watch?v=FQhlnsbgrL0
 
 ## Unity Setting and Load
 
+### English
 copy PoterDoll-Folder and the following files from the PoterDoll-Folder to Assets with Unity.
 
 set Color Space with Linear, Unity - Project Settings - Player - Other Settings - Color Spalce .
 
 Load porterDoll.unity included Scenes folder.
 
+
+### Chinese
+请把PoterDoll以下的文件复制到Unity的Assets下面。
+
+运行sample data之前需要把Color Spalce设置成Linear Space。（Unity - Project Settings - Player - Other Settings - Color Spalce）
+
+请运行porterDoll.unity来读取场景。
+
+### Japanese
 PoterDollフォッルダー以下のファイルをUnityのAssets以下にコピーしてください
 
 本サンプルデータはプロジェクトセッティングのカラースペースをリニアに設定する必要があります。
 （Unity - Project Settings - Player - Other Settings - Color Spalce）
 
 シーンフォルダー以下にあるporterDoll.unityを読み込んでください。
+
 
 ## License
 
@@ -51,7 +64,7 @@ Based on a work at http://marza-realtime.com/.
 ### Code License
 The MIT License (MIT)
 
-Copyright (c) 2015-2016 marza animation planet 
+Copyright (c) 2016 MARZA ANIMATION PLANET INC. 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
