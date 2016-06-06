@@ -42,7 +42,7 @@ Load porterDoll.unity included Scenes folder.
 请运行porterDoll.unity来读取场景。
 
 ### Japanese
-PoterDollフォッルダー以下のファイルをUnityのAssets以下にコピーしてください
+PoterDollフォルダー以下のファイルをUnityのAssets以下にコピーしてください
 
 本サンプルデータはプロジェクトセッティングのカラースペースをリニアに設定する必要があります。
 （Unity - Project Settings - Player - Other Settings - Color Spalce）
