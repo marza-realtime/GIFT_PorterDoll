@@ -33,6 +33,9 @@ set Color Space with Linear, Unity - Project Settings - Player - Other Settings 
 
 Load porterDoll.unity included Scenes folder.
 
+#####Warning
+ MarzaFurShader is using subdhader-Pass. So it is supported by DirextX only.
+
 
 ### Chinese
 请把PoterDoll以下的文件复制到Unity的Assets下面。
@@ -41,6 +44,9 @@ Load porterDoll.unity included Scenes folder.
 
 请运行porterDoll.unity来读取场景。
 
+#####警告
+ MarzaFurShader利用的是subdhader的Pass,所以只能在DirextX环境下运行。
+
 ### Japanese
 PoterDollフォルダー以下のファイルをUnityのAssets以下にコピーしてください
 
@@ -48,6 +54,9 @@ PoterDollフォルダー以下のファイルをUnityのAssets以下にコピー
 （Unity - Project Settings - Player - Other Settings - Color Spalce）
 
 シーンフォルダー以下にあるporterDoll.unityを読み込んでください。
+
+#####ワーニング
+ MarzaFurShader はsubdhaderのPassを利用している関係上、DirextX環境のみのサポートとなります。
 
 
 ## License
